@@ -1,37 +1,155 @@
-## Welcome to GitHub Pages
+# Tejanshu Khardekar
 
-You can use the [editor on GitHub](https://github.com/tejaravindrak/tejaravindrak.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+AI-native platform systems, workflow intelligence, semantic retrieval, operational automation, and enterprise knowledge infrastructure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Overview
 
-### Markdown
+This repository serves as the central portfolio and landing page for a collection of AI-native enterprise platform projects focused on:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- semantic retrieval
+- workflow orchestration
+- operational intelligence
+- contextual AI
+- enterprise knowledge systems
+- multimodal AI pipelines
+- AI-assisted operations
+- platform-scale systems thinking
 
-```markdown
-Syntax highlighted code block
+The goal is to demonstrate platform product thinking, enterprise architecture understanding, AI-native workflows, and operational orchestration capabilities through practical portfolio-grade systems.
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
 
-- Bulleted
-- List
+### ContextOS
 
-1. Numbered
-2. List
+AI-native enterprise knowledge and operational intelligence platform.
 
-**Bold** and _Italic_ and `Code` text
+Core capabilities:
 
-[Link](url) and ![Image](src)
-```
+- semantic retrieval
+- contextual enterprise search
+- RAG pipelines
+- conversational assistance
+- workflow guidance
+- API understanding
+- contextual onboarding
+- governance-aware retrieval
+- operational intelligence
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Tech stack:
 
-### Jekyll Themes
+- React
+- Docusaurus
+- FastAPI
+- LangChain / LlamaIndex
+- ChromaDB
+- OpenAI / Gemini APIs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tejaravindrak/tejaravindrak.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Soperator
 
-### Support or Contact
+AI-native workflow orchestration and operational execution platform.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Core capabilities:
+
+- SOP ingestion
+- execution planning
+- workflow decomposition
+- AI-assisted operational automation
+- human approval checkpoints
+- operational intelligence
+- infrastructure-aware execution flows
+
+Tech stack:
+
+- React
+- FastAPI
+- LangGraph
+- CrewAI / AutoGen
+- GitHub APIs
+- Kubernetes integrations
+
+### Gistify
+
+AI-native multimodal retrieval and summarization platform.
+
+Core capabilities:
+
+- video ingestion
+- transcription
+- semantic summarization
+- conversational querying
+- insight extraction
+- topic identification
+- contextual media intelligence
+
+Tech stack:
+
+- FastAPI
+- Whisper
+- vector retrieval
+- embeddings
+- OpenAI / Gemini APIs
+- ChromaDB
+
+## Focus Areas
+
+- AI-native enterprise systems
+- workflow intelligence
+- semantic retrieval
+- enterprise search
+- contextual AI
+- operational automation
+- knowledge orchestration
+- developer enablement
+- platform engineering
+- operational intelligence
+- retrieval-augmented generation
+- distributed systems thinking
+
+## Development Philosophy
+
+The systems in this portfolio are designed with:
+
+- low-cost deployment
+- browser-first development
+- cloud-native workflows
+- lightweight infrastructure
+- scalable architecture thinking
+- API-first integration
+- operational practicality
+- enterprise extensibility
+
+## Deployment Strategy
+
+Optimized for:
+
+- GitHub Pages
+- GitHub Codespaces
+- Vercel
+- Railway
+- Render
+- Supabase free tier
+- hosted vector databases
+- API-based AI infrastructure
+
+## Positioning
+
+This portfolio is intentionally focused toward:
+
+- Platform Product Management
+- AI-native Product Systems
+- Technical Product Leadership
+- Enterprise AI Platforms
+- Workflow Automation Systems
+- Knowledge Infrastructure
+- Operational AI Systems
+
+## Website
+
+https://tejaravindrak.github.io
+
+## Author
+
+Tejanshu Khardekar
+
+GitHub:
+https://github.com/tejaravindrak
